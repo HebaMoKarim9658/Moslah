@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoslahAPI", "Moslah\MoslahAPI.csproj", "{BF60D325-37AC-4B38-9CC6-8F47724BA5DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoslahConsumer", "MoslahConsumer\MoslahConsumer.csproj", "{5D671303-6D19-42C1-ACEB-E6CE1F884E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF60D325-37AC-4B38-9CC6-8F47724BA5DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF60D325-37AC-4B38-9CC6-8F47724BA5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF60D325-37AC-4B38-9CC6-8F47724BA5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF60D325-37AC-4B38-9CC6-8F47724BA5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D671303-6D19-42C1-ACEB-E6CE1F884E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D671303-6D19-42C1-ACEB-E6CE1F884E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D671303-6D19-42C1-ACEB-E6CE1F884E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D671303-6D19-42C1-ACEB-E6CE1F884E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AF764DE-9173-40A2-82F4-98F6E14F27DD}
+	EndGlobalSection
+EndGlobal
